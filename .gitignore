@@ -18,3 +18,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/resources/fonts
+/resources/images
+/resources/sample
+/resources/libs
+/resources/js/pages
+/yarn.lock
